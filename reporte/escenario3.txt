@@ -1,0 +1,754 @@
+=== MODO SEMÁFORO (SIN INTERBLOQUEO) ===
+Filósofo 0 está pensando...
+Filósofo 1 está pensando...
+Simulación ejecutándose por 30 segundos...
+Filósofo 2 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 1 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:2 F1:2 F2:2 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 2 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:3 F1:3 F2:4 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 3 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:5 F1:5 F2:6 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 4 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:6 F1:7 F2:7 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 5 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:9 F1:9 F2:9 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 6 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:10 F1:10 F2:11 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 7 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:12 F1:12 F2:12 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 8 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:13 F1:13 F2:14 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 9 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:15 F1:15 F2:15 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 10 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:17 F1:17 F2:17 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 11 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:19 F1:19 F2:19 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 12 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:20 F1:20 F2:21 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 13 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:22 F1:22 F2:23 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 14 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:24 F1:24 F2:24 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 15 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:25 F1:26 F2:26 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 16 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:27 F1:27 F2:27 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 17 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:28 F1:29 F2:29 
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 18 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:30 F1:30 F2:31 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 19 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:32 F1:32 F2:32 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 20 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:34 F1:34 F2:34 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 21 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:35 F1:36 F2:36 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 22 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:37 F1:37 F2:38 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 23 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:38 F1:39 F2:39 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 24 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:40 F1:41 F2:41 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 25 segundos ===
+Filósofos comiendo: 0 
+Total comidas: F0:42 F1:42 F2:42 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 26 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:43 F1:44 F2:44 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+
+=== TIEMPO: 27 segundos ===
+Filósofos comiendo: 
+Total comidas: F0:45 F1:46 F2:46 
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 28 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:47 F1:48 F2:48 
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 29 segundos ===
+Filósofos comiendo: 1 
+Total comidas: F0:49 F1:50 F2:50 
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 2 tomó tenedores 2 y 0
+Filósofo 2 está COMIENDO
+
+=== TIEMPO: 30 segundos ===
+Filósofos comiendo: 2 
+Total comidas: F0:51 F1:51 F2:52 
+
+Finalizando simulación...
+Filósofo 2 soltó los tenedores
+Filósofo 1 tomó tenedores 1 y 2
+Filósofo 1 está COMIENDO
+Filósofo 1 soltó los tenedores
+Filósofo 0 tomó tenedores 0 y 1
+Filósofo 0 está COMIENDO
+Filósofo 0 soltó los tenedores
+
+=== RESULTADOS FINALES ===
+Total de comidas por filósofo:
+Filósofo 0: 52 comidas
+Filósofo 1: 52 comidas
+Filósofo 2: 52 comidas

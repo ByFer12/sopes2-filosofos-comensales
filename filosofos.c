@@ -7,10 +7,10 @@
 #include <time.h>
 
 // Configuración por defecto
+
 #define NUM_FILOSOFOS 5
 
 
-#define NUM_FILOSOFOS 3
 #define TIEMPO_PENSAR_MIN 50000
 #define TIEMPO_PENSAR_MAX 100000
 #define TIEMPO_COMER_MIN 100000

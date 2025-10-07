@@ -1,0 +1,107 @@
+=== MODO INGENUO (CON INTERBLOQUEO) ===
+Filósofo 0 está pensando...
+Filósofo 1 está pensando...
+Filósofo 2 está pensando...
+Simulación ejecutándose por 10 segundos...
+Filósofo 3 está pensando...
+Filósofo 4 está pensando...
+Filósofo 4 tomó tenedor izquierdo (4)
+Filósofo 4 tomó tenedor derecho (0)
+Filósofo 4 está COMIENDO
+Filósofo 2 tomó tenedor izquierdo (2)
+Filósofo 2 tomó tenedor derecho (3)
+Filósofo 2 está COMIENDO
+Filósofo 1 tomó tenedor izquierdo (1)
+
+=== TIEMPO: 1 segundos ===
+Filósofos comiendo: 2 4 
+Total comidas: F0:0 F1:0 F2:1 F3:0 F4:1 
+
+=== TIEMPO: 2 segundos ===
+Filósofos comiendo: 2 4 
+Total comidas: F0:0 F1:0 F2:1 F3:0 F4:1 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 1 tomó tenedor derecho (2)
+Filósofo 1 está COMIENDO
+Filósofo 3 tomó tenedor izquierdo (3)
+Filósofo 4 soltó los tenedores
+Filósofo 4 está pensando...
+Filósofo 3 tomó tenedor derecho (4)
+Filósofo 3 está COMIENDO
+Filósofo 0 tomó tenedor izquierdo (0)
+
+=== TIEMPO: 3 segundos ===
+Filósofos comiendo: 1 3 
+Total comidas: F0:0 F1:1 F2:1 F3:1 F4:1 
+
+=== TIEMPO: 4 segundos ===
+Filósofos comiendo: 1 3 
+Total comidas: F0:0 F1:1 F2:1 F3:1 F4:1 
+
+=== TIEMPO: 5 segundos ===
+Filósofos comiendo: 1 3 
+Total comidas: F0:0 F1:1 F2:1 F3:1 F4:1 
+Filósofo 3 soltó los tenedores
+Filósofo 3 está pensando...
+Filósofo 4 tomó tenedor izquierdo (4)
+Filósofo 1 soltó los tenedores
+Filósofo 1 está pensando...
+Filósofo 2 tomó tenedor izquierdo (2)
+Filósofo 2 tomó tenedor derecho (3)
+Filósofo 2 está COMIENDO
+Filósofo 0 tomó tenedor derecho (1)
+Filósofo 0 está COMIENDO
+
+=== TIEMPO: 6 segundos ===
+Filósofos comiendo: 0 2 
+Total comidas: F0:1 F1:1 F2:2 F3:1 F4:1 
+
+=== TIEMPO: 7 segundos ===
+Filósofos comiendo: 0 2 
+Total comidas: F0:1 F1:1 F2:2 F3:1 F4:1 
+Filósofo 0 soltó los tenedores
+Filósofo 0 está pensando...
+Filósofo 1 tomó tenedor izquierdo (1)
+Filósofo 4 tomó tenedor derecho (0)
+Filósofo 4 está COMIENDO
+
+=== TIEMPO: 8 segundos ===
+Filósofos comiendo: 2 4 
+Total comidas: F0:1 F1:1 F2:2 F3:1 F4:2 
+Filósofo 2 soltó los tenedores
+Filósofo 2 está pensando...
+Filósofo 3 tomó tenedor izquierdo (3)
+Filósofo 1 tomó tenedor derecho (2)
+Filósofo 1 está COMIENDO
+
+=== TIEMPO: 9 segundos ===
+Filósofos comiendo: 1 4 
+Total comidas: F0:1 F1:2 F2:2 F3:1 F4:2 
+
+=== TIEMPO: 10 segundos ===
+Filósofos comiendo: 1 4 
+Total comidas: F0:1 F1:2 F2:2 F3:1 F4:2 
+
+Finalizando simulación...
+Filósofo 4 soltó los tenedores
+Filósofo 3 tomó tenedor derecho (4)
+Filósofo 3 está COMIENDO
+Filósofo 0 tomó tenedor izquierdo (0)
+Filósofo 1 soltó los tenedores
+Filósofo 0 tomó tenedor derecho (1)
+Filósofo 0 está COMIENDO
+Filósofo 2 tomó tenedor izquierdo (2)
+Filósofo 3 soltó los tenedores
+Filósofo 2 tomó tenedor derecho (3)
+Filósofo 2 está COMIENDO
+Filósofo 0 soltó los tenedores
+Filósofo 2 soltó los tenedores
+
+=== RESULTADOS FINALES ===
+Total de comidas por filósofo:
+Filósofo 0: 2 comidas
+Filósofo 1: 2 comidas
+Filósofo 2: 3 comidas
+Filósofo 3: 2 comidas
+Filósofo 4: 2 comidas
